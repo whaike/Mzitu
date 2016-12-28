@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 # Created on 2016-11-16 23:30:11
 # Project: meizitu
-
+ 
 from pyspider.libs.base_handler import *
 import urllib
 from lxml import etree
